@@ -18,6 +18,7 @@
   },
   "source": "src/autosize.js",
   "module": "dist/autosize.esm.js",
+  "sideEffects": false,
   "unpkg": "dist/autosize.min.js",
   "main": "dist/autosize.js",
   "license": "MIT",
